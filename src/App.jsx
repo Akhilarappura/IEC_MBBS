@@ -16,7 +16,7 @@ import ImageCarousel from "./components/view/imageCarousal";
 import UniversityDetail from "./components/view/universityDetail";
 import { ContactUs } from "./components/view/contactUs";
 import Gallery from "./components/view/gallery";
-import { About_Home } from "./components/view/about_Home";
+import { AboutHome } from "./components/view/about_Home";
 import { MissionValues } from "./components/view/missionValues";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
