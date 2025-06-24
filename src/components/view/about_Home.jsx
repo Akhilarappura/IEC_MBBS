@@ -1,8 +1,8 @@
 import React from "react";
 import "../css/About_Home.css";
-import { FaUserMd, FaGraduationCap, FaHospitalAlt, FaGlobe } from "react-icons/fa"; // FontAwesome icons
+import { FaUserMd, FaGraduationCap, FaHospitalAlt, FaGlobe } from "react-icons/fa"; 
 
-export const About_Home = () => {
+export const AboutHome = () => {
   return (
     <div className="about-home-wrapper">
  
