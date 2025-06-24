@@ -12,7 +12,7 @@ export const Country = (props) => {
   return (
     <div id="portfolio" className="text-center">
       <div className="container">
-        <div className="section-title">
+        <div className="">
           <h2>STUDY IN ABROAD</h2>
         </div>
         <div className="row">
