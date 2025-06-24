@@ -1,0 +1,121 @@
+.study-section {
+  background: linear-gradient(#7a4df5, #5f35c4);
+  padding: 120px 20px 400px; /* Top spacing for title, bottom for images */
+  text-align: center;
+  clip-path: ellipse(150% 100% at 50% 0%);
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .study-section {
+    padding: 80px 15px 340px;
+    clip-path: ellipse(170% 100% at 50% 0%);
+  }
+}
+.breadcrumb {
+  color: #c2b7f1;           /* Light purple text */
+  font-size: 16px;
+  margin-bottom: 10px;
+  background: none;         /* ✅ Ensure no background */
+  padding: 0;               /* ✅ Remove padding if any */
+  display: inline-block;    /* ✅ So it doesn’t span the whole line */
+  box-shadow: none;         /* ✅ No shadow */
+  border-radius: 0;         /* ✅ No corners */
+}
+
+.title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #fff;
+  z-index: 3;
+  position: relative;
+}
+
+.image-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  position: absolute;
+  top: 240px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: 2;
+  flex-wrap: wrap;
+}
+
+.img-left img,
+.img-right img {
+  width: 420px;
+  max-width: 80%;
+  margin-top: 90px;
+  height: auto;
+  border-radius: 24px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.img-left img,
+.img-right img {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeInUp 3s ease forwards;
+  animation-delay: 0.3s;
+}
+
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@media (max-width: 768px) {
+  .image-layout {
+    flex-direction: column;
+    top: 220px;
+    gap: 25px;
+  }
+
+  .img-left img,
+  .img-right img {
+    width: 95%;
+  }
+}
+
+.study-description {
+  font-size: 24px;
+  line-height: 1.8;
+  max-width: 800px;
+  margin: 360px auto 40px;
+  color: #333;
+  background-color: #fff;
+  padding: 24px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .study-description {
+    margin: 380px 16px 40px;
+    font-size: 16px;
+  }
+}
+
+.why-section {
+  padding: 70px 20px;
+  text-align: center;
+}
+
+.why {
+  font-size: 24px;
+  font-weight: bold;
+  color: #222;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}

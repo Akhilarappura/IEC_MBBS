@@ -1,0 +1,307 @@
+{
+  "usa": {
+    "breadcrumb": "Study Destinations • USA",
+    "title": "Study in USA",
+    "description": "Top universities and research programs.",
+    "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+ "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+  },
+  "uk": {
+    "breadcrumb": "Study Destinations • UK",
+    "title": "Study in UK",
+    "description": "World-class education and culture.",
+     "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+  "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+  },
+  "uzbekistan": {
+    "breadcrumb": "Study Destinations • uzbekistan",
+    "title": "Study in uzbekistan",
+    "description": "Top universities and research programs.",
+      "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+    "gallery": [
+    {
+       "id": "TASHKENT MEDICAL ACADEMY",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+ 
+  ]
+
+
+  },
+
+   "aus": {
+    "breadcrumb": "Study Destinations • Austrailia",
+    "title": "Study in Austrailia",
+    "description": "Top universities and research programs.",
+   "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+    "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+  
+   },
+    "euro": {
+    "breadcrumb": "Study Destinations • Europe",
+    "title": "Study in Europe",
+    "description": "Top universities and research programs.",
+      "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+  "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+
+    },
+     "news": {
+    "breadcrumb": "Study Destinations • Newzland",
+    "title": "Study in Newzland",
+    "description": "Top universities and research programs.",
+    "image1": "img/hd2.jpg",
+    "image2": "img/hd2.jpg",
+     "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+
+    },
+     "geor": {
+    "breadcrumb": "Study Destinations • Georgia",
+    "title": "Study in Georgia",
+    "description": "‘MBBS in Georgia’ has always been an attraction for Indian students. Georgia is the most famous destination among students for medical education in abroad. MBBS in Georgia offers world class research infrastructure, quality education, and cross-cultural experience.There is a wish which every student studying medicine has is to add an international degree in their curriculum vitae. For students who wish to study MBBS in Europe, MBBS in Georgia is really worth noticeable.At the intersection of Europe and Asia, situated is the small country known as Georgia. The Georgian medical colleges are governed by the National Medical Commission (NMC) and World Health Organization (WHO) and other medical bodies. Medical schools in Georgia offer best infrastructure and international standard of medical education.",
+
+    "image1": "img/gror.jpeg",
+    "image2": "img/hd2mapgeor.jpeg",
+    "gallery": [
+    {
+       "id": "david-tvildiani",
+      "title": "DAVID TVILDIANI MEDICAL UNIVERSITY",
+      "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "TBLISI",
+      "title": "TBLISI STATE MEDICAL UNIVERSITY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "IVANE JAVAKISHVILI",
+      "title": "IVANE JAVAKISHVILI TBILISI STATE MEDICAL UNIVERSITY",
+     "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "PETRE SHOTADZE",
+      "title": "PETRE SHOTADZE TBILISI MEDICAL ACADEMY ",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "EAST EUROPEAN",
+      "title": "EAST EUROPEAN UNIVERSITY",
+"largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    },
+    {
+       "id": "david-tvildiani",
+      "title": "CAUCASUS INTERNATIONAL UNIVERSITY",
+    "largeImage": "img/university.jpeg  ",
+      "smallImage": "img/university.jpeg"
+    }
+   
+  ]
+
+    }
+}

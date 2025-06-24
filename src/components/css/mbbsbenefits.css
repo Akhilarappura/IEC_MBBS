@@ -1,0 +1,45 @@
+.mbbs-benefits-section {
+  background: #ffffff;
+  padding: 60px 20px;
+  text-align: left;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.mbbs-columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.mbbs-left, .mbbs-right {
+  flex: 1 1 45%;
+}
+
+.mbbs-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.mbbs-list, .mbbs-abroad-list {
+  list-style-type: "+ ";
+  padding-left: 20px;
+  color: #333;
+}
+
+.mbbs-list li, .mbbs-abroad-list li {
+  margin-bottom: 12px;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.mbbs-list li strong {
+  font-weight: bold;
+}

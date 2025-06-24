@@ -1,0 +1,51 @@
+/* feesstructure.css */
+.fee-structure-container {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.fee-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #d01b4a;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.fee-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.fee-table thead {
+  background-color: #f0f0f0;
+}
+
+.fee-table th,
+.fee-table td {
+  border: 1px solid #ddd;
+  padding: 12px 16px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.fee-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+@media screen and (max-width: 768px) {
+  .fee-title {
+    font-size: 20px;
+  }
+
+  .fee-table th,
+  .fee-table td {
+    font-size: 14px;
+    padding: 10px;
+  }
+}

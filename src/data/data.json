@@ -1,0 +1,210 @@
+{
+  "Header": {
+    "title": "Education",
+    "paragraph": "We are bringing overseas education within everyone’s reach",
+    "paragraph1": "Our Tech-enabled solutions help international students and recruitment partners choose the best global universities",
+    "logo": "img/ieclogo.png"
+  },
+  "About": {
+  "paragraph": "International Educare Corporation, popularly known as IEC is the specialist in Medical Education Abroad, IEC is established in 2000. Since then IEC is relentlessly serving student community to cherish their dream of Quality Medical Education at an affordable cost.IEC have partnered with many renowned Medical Universities Internationally and always act as a link between the Universities and the students. At IEC we not only nurture good doctors but also doctor with a strong and comprehensive foundation of Medical Knowledge, Skills and Compassion. We train them to be the leaders, to make independent decisions and to collaborate with other medical professionals.6500+ Studying MBBS through US 2500+ IEC Students are working Doctors now.",
+    "Why": [
+      "We are India’s leading overseas educational consultancy.",
+      "Our experience in the field has made us expert and authentict",
+      "More than 6500 students have successfully counseled and taken admission with the help of Select Your University.",
+      "Detailed and expert guidance and verified information."
+    ],
+    "Why2": [
+      "We are official partners with the top universities of many countries.",
+      "Guaranteed admission and documentation, guidance for all the courses and universities.",
+      "Assistance for Visa and passport as well as accommodation abroad.",
+      "Mock interview for the students to groom them as per specific requirements4"
+    ]
+  },
+  "Country": [
+    {
+      "id":"geor",
+      "title": "MBBS IN GEORGIA",
+      "largeImage": "img/portfolio/landing.jpg",
+      "smallImage": "img/portfolio/GEORGIA.jpg"
+    },
+    {
+          "id":"UZBEKISTAN",
+      "title": "MBBS IN UZBEKISTAN",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/UZBEKISTAN.jpeg.jpg"
+    },
+    {
+          "id":"UKRAINE",
+      "title": "MBBS IN UKRAINE",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/UKRAINE.jpg"
+    },
+    {
+          "id":"CHINA",
+      "title": "MBBS IN CHINA",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/CHINA.jpg"
+    },
+    {
+          "id":"BANGLADESH",
+      "title": "MBBS IN BANGLADESH",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/BANGLADESH.jpg"
+    },
+    {
+       
+          "id":"RUSSIA",
+      "title": "MBBS IN RUSSIA",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/RUSSIA.jpg"
+    },
+    {
+          "id":"KAZAKHISTAN",
+      "title": "MBBS IN KAZAKHISTAN",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/KAZAKHISTAN.jpg"
+    },
+    {
+          "id":"KYRGYSTAN",
+      "title": "MBBS IN KYRGYSTAN",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/KYRGYSTAN.jpg"
+    },
+    {
+          "id":"ARMENIA",
+      "title": "MBBS IN ARMENIA",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/ARMENIA.jpg"
+    }
+    ,
+    {
+          "id":"PHILIPPINES",
+      "title": "MBBS IN PHILIPPINES",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/PHILIPPINES.jpeg.jpg"
+    },
+    {
+          "id":"MOLDOVA",
+      "title": "MBBS IN MOLDOVA",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/MOLDOVA.jpg"
+    },
+    {
+          "id":"POLAND",
+      "title": "MBBS IN POLAND",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/POLAND.jpeg.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-solid fa-graduation-cap",
+      "name": "For Students",
+      "text": "With tailored guidance, our seamless counselling supports your applications, admissions, visas, scholarships, and loans. Guiding you to your dream university."
+    },
+    {
+      "icon": "fa fa-solid fa-hands-holding-child",
+      "name": "For Partners",
+      "text": "Partner with our expert team and advanced technology to discover how they can truly transform your business into a lasting success story."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "count": 2500,
+      "title": "Successful Doctors",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "count": 6500,
+      "title": "Students",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "count": 25,
+      "title": "Recruiting Countries",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+}
+]
+}
