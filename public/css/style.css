@@ -69,6 +69,38 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
+
+/* Make button look like a normal nav link (like <a>) */
+.nav-button-link {
+  background: none;
+  border: none;
+  padding: 8px 2px;
+  margin: 9px 20px 0;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: #555;
+  text-transform: uppercase;
+  position: relative;
+  cursor: pointer;
+}
+
+.nav-button-link:after {
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 0;
+  height: 2px;
+  background: linear-gradient(to right, #2236e8 0%, #5ca9fb 100%);
+  content: "";
+  transition: width 0.2s;
+}
+
+.nav-button-link:hover:after {
+  width: 100%;
+}
+
 /* Navigation */
 #menu {
   padding: 15px;

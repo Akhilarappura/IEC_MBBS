@@ -54,7 +54,11 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
           <li className="dropdown">
-  <a className="dropdown-toggle">Study Destinations</a>
+<button type="button" className="dropdown-toggle nav-button-link">
+  Study Destinations
+</button>
+
+
   <div className="dropdown-full-width">
     <ul className="country-grid">
       <li>
