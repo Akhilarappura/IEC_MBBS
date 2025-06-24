@@ -71,7 +71,7 @@ const App = () => {
         />
               <Route
           path="/about_home"
-          element={<About_Home />}
+          element={<AboutHome />}
         />
         <Route
           path="/mission"
