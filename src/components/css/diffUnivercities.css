@@ -53,3 +53,31 @@
   font-size: 16px;
   color: #888;
 }
+
+/* ========== Responsive Media Queries ========== */
+
+/* Tablets (<= 768px) */
+@media (max-width: 768px) {
+  .university-card {
+    width: 45%;
+  }
+}
+
+/* Phones (<= 480px) */
+@media (max-width: 480px) {
+  .university-card {
+    width: 100%;
+  }
+
+  .section-title {
+    font-size: 22px;
+  }
+
+  .styled-img {
+    height: 100px;
+  }
+
+  .university-title {
+    font-size: 14px;
+  }
+}

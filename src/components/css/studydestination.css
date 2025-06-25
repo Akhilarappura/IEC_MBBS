@@ -1,6 +1,6 @@
 .study-section {
   background: linear-gradient(#7a4df5, #5f35c4);
-  padding: 120px 20px 400px; /* Top spacing for title, bottom for images */
+  padding: 120px 20px 240px; /* Top spacing for title, bottom for images */
   text-align: center;
   clip-path: ellipse(150% 100% at 50% 0%);
   position: relative;
@@ -33,7 +33,7 @@
   position: relative;
 }
 
-.image-layout {
+/* .image-layout {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -45,7 +45,18 @@
   margin: auto;
   z-index: 2;
   flex-wrap: wrap;
+} */
+ .image-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: -200px; /* Pull up under the gradient section */
+  z-index: 2;
+  flex-wrap: wrap;
+  position: relative; /* 🔁 Changed from absolute */
 }
+
 
 .img-left img,
 .img-right img {
@@ -92,12 +103,31 @@
   font-size: 24px;
   line-height: 1.8;
   max-width: 800px;
-  margin: 360px auto 40px;
+  margin:   40px auto;
   color: #333;
   background-color: #fff;
   padding: 24px;
   text-align: center;
 }
+@media (max-width: 768px) {
+  .image-layout {
+    flex-direction: column;
+    gap: 25px;
+    margin-top: -160px; /* Smaller offset for mobile */
+  }
+
+  .img-left img,
+  .img-right img {
+    width: 95%;
+    margin-top: 0;
+  }
+
+  .study-description {
+    margin: 30px 16px;
+    font-size: 16px;
+  }
+}
+
 
 @media (max-width: 768px) {
   .study-description {
